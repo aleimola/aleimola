@@ -32,6 +32,8 @@ My background combines **engineering, data, and business**, with experience in p
 
 - [**AI-Based Industrial Incident Reporting System**](https://github.com/aleimola/ai-industrial-incident-reporting)  
   AI-powered system for converting industrial audio reports into structured incident documentation using LLMs, speech-to-text, prompt engineering, and ontology-based information extraction.
+- [**Industry 4.0 Beauty Case Assembly**](https://github.com/aleimola/industry4-beauty-case-assembly)  
+  Industry 4.0 assembly-line project integrating innovative production technologies, a web application with an AI chatbot, and YOLO-based computer vision for automated quality inspection.
 
 ## 🤝 Connect with me
 
