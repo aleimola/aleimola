@@ -2,10 +2,17 @@
 - 👋 Hi, I’m Alessia Imoletti (@aleimola).
 - 🎓 MSc Management Engineering Student @ Sapienza University of Rome
 
-My academic and project experience focuses on applying data analytics, Artificial Intelligence, and Industry 4.0 technologies to improve the efficiency, reliability, and performance of industrial systems**
+My background combines **engineering, data, and business**, with project experience focused on **Digital Twins, Artificial Intelligence, process optimization, and smart manufacturing**.
 
-I’m particularly interested in Smart Manufacturing, Digital Twins, process optimization, and AI-driven industrial applications, with the goal of combining digital innovation and sustainability to design more efficient, resilient, and environmentally responsible systems.**
+Alongside my academic path, I have been actively involved in several student and entrepreneurial initiatives:
 
+- 🏎️ **Sapienza Fast Charge Formula Student Electric** — Business Department
+- 🚀 **SASA – Sapienza Aerospace Student Association** — Business Department
+- 🌐 **Telcedo** — Co-Founder, working on Digital Twin solutions for industrial plants
+
+These experiences allowed me to work on **business planning, cost optimization, project coordination, industrial innovation, and data-driven performance improvement**, while collaborating with multidisciplinary teams.
+
+I’m particularly interested in applying **digital technologies and sustainability principles** to build more efficient, resilient, and innovative industrial systems.
 ## 🚀 Interests
 
 `Industry 4.0` · `Operations Management` · `Digital Twin` · `Artificial Intelligence` · `Smart Manufacturing` · `Supply Chain` · `Sustainability`
@@ -21,12 +28,6 @@ I’m particularly interested in Smart Manufacturing, Digital Twins, process opt
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
 [![AMPL](https://img.shields.io/badge/AMPL-0066CC?style=for-the-badge)](https://ampl.com/)
 
-## 💡 Selected Projects
-
-- **AI-Based Industrial Incident Reporting System** — LLMs, speech-to-text, prompt engineering
-- **AI & Industry 4.0** — AI chatbot and YOLO-based quality inspection
-- **Telcedo** — Digital Twin solutions for industrial plants
-- **Sapienza Fast Charge Formula Student** — Business Plan, BOM and Cost Report
 
 ## 💡 Projects
 
