@@ -2,9 +2,9 @@
 - 👋 Hi, I’m Alessia Imoletti (@aleimola).
 - 🎓 MSc Management Engineering Student @ Sapienza University of Rome
 
-I'm interested in **Industry 4.0, Operations, Digital Transformation, AI, and Smart Manufacturing**.
+My academic and project experience focuses on applying data analytics, Artificial Intelligence, and Industry 4.0 technologies to improve the efficiency, reliability, and performance of industrial systems**
 
-My background combines **engineering, data, and business**, with experience in projects involving **Digital Twins, industrial AI, process optimization, and Formula Student**.
+I’m particularly interested in Smart Manufacturing, Digital Twins, process optimization, and AI-driven industrial applications, with the goal of combining digital innovation and sustainability to design more efficient, resilient, and environmentally responsible systems.**
 
 ## 🚀 Interests
 
