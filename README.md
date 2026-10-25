@@ -1,6 +1,6 @@
-# Hi, I'm Alessia Imoletti 👋
-
-### MSc Management Engineering Student @ Sapienza University of Rome
+# 👩‍💻 About me
+- 👋 Hi, I’m Alessia Imoletti (@aleimola).
+- 🎓 MSc Management Engineering Student @ Sapienza University of Rome
 
 I'm interested in **Industry 4.0, Operations, Digital Transformation, AI, and Smart Manufacturing**.
 
