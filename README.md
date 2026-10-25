@@ -28,6 +28,11 @@ My background combines **engineering, data, and business**, with experience in p
 - **Telcedo** — Digital Twin solutions for industrial plants
 - **Sapienza Fast Charge Formula Student** — Business Plan, BOM and Cost Report
 
+## 💡 Projects
+
+- [**AI-Based Industrial Incident Reporting System**](https://github.com/aleimola/ai-industrial-incident-reporting)  
+  AI-powered system for converting industrial audio reports into structured incident documentation using LLMs, speech-to-text, prompt engineering, and ontology-based information extraction.
+
 ## 🤝 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/alessia-imoletti/)
